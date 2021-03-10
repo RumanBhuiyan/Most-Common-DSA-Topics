@@ -27,3 +27,5 @@ for i in range(vertices):
     
 print("Following is Breadth First Traversal: ",end=" ")
 bfs(graph, 0)
+
+# two possible solution i) 0 1 2 3 ii) 0 2 1 3
