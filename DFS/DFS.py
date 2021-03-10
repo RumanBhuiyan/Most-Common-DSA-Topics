@@ -20,4 +20,4 @@ for i in range(vertices):
 visited = set()
 dfs(visited, graph, 0)
 
-# two possible solution : i) 0 1 2 3  ii)  0 2 3 1
+#two possible solution : i) 0 1 2 3  ii)  0 2 3 1
