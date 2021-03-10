@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Iterator;
 
-public class Main {
+public class BFS {
 
     static class Graph {
         private int vertices;//how many nodes
